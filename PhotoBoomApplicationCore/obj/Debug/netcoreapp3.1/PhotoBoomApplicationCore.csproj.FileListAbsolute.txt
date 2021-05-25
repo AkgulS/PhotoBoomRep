@@ -1,0 +1,9 @@
+C:\Users\PC\source\repos\PhotoBoomApplication\PhotoBoomApplicationCore\bin\Debug\netcoreapp3.1\PhotoBoomApplicationCore.deps.json
+C:\Users\PC\source\repos\PhotoBoomApplication\PhotoBoomApplicationCore\bin\Debug\netcoreapp3.1\PhotoBoomApplicationCore.dll
+C:\Users\PC\source\repos\PhotoBoomApplication\PhotoBoomApplicationCore\bin\Debug\netcoreapp3.1\PhotoBoomApplicationCore.pdb
+C:\Users\PC\source\repos\PhotoBoomApplication\PhotoBoomApplicationCore\obj\Debug\netcoreapp3.1\PhotoBoomApplicationCore.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\PhotoBoomApplication\PhotoBoomApplicationCore\obj\Debug\netcoreapp3.1\PhotoBoomApplicationCore.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\PhotoBoomApplication\PhotoBoomApplicationCore\obj\Debug\netcoreapp3.1\PhotoBoomApplicationCore.AssemblyInfo.cs
+C:\Users\PC\source\repos\PhotoBoomApplication\PhotoBoomApplicationCore\obj\Debug\netcoreapp3.1\PhotoBoomApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\PhotoBoomApplication\PhotoBoomApplicationCore\obj\Debug\netcoreapp3.1\PhotoBoomApplicationCore.dll
+C:\Users\PC\source\repos\PhotoBoomApplication\PhotoBoomApplicationCore\obj\Debug\netcoreapp3.1\PhotoBoomApplicationCore.pdb

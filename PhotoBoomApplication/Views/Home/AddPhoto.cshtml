@@ -1,0 +1,29 @@
+﻿<div class="row" style="text-align:center; justify-content:center">
+    <div class="col-sm-12">
+        <h1 class="display-4">Add Photo</h1>
+        <div class="row" style="text-align:center; justify-content:center">
+            <form action="/Home/AddPhoto" method="post" enctype="multipart/form-data">
+                <div class="col-sm-12">
+                    Title :
+                    <input type="text" name="Title" value="" />
+                </div>
+                <br />
+                <div class="col-sm-12">
+                    Tags :
+                    <input type="text" name="Tags" value="" />
+                </div>
+                <br />
+                <div class="col-sm-12" style=" margin-left: 9%;">
+                    Yükle :
+                    <input type="file" name="Photo" />
+                </div>
+                <br />
+                <div class="col-sm-12">
+                    <button type="submit" id="addPhoto">Add Photo</button>
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+</div>

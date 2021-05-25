@@ -1,0 +1,13 @@
+﻿@using PhotoBoomApplicationCore.Domain
+
+@model Photo
+<div class="row">
+    <div class="col-sm-12" style="text-align:center; justify-content:center">
+        <div class="text-center">
+            <h1 class="display-4">@Model.Title</h1>
+            <h4>#@Model.Tags.Replace(" ", " #")</h4>
+            <img src="/Uploads/@Model.PhotoName" style="max-height:100%; max-width:100%" />
+            <p><a href="/Home/DeletePhoto?Id=@Model.Id">Delete photo </a></p>
+        </div>
+    </div>
+</div>
